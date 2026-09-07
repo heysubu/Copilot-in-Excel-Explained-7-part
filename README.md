@@ -13,3 +13,7 @@ Copilot in Excel Explained — Free AI Automation Guide for Indian Professionals
 <img width="918" height="783" alt="Analyze Variance Summary" src="https://github.com/user-attachments/assets/cd42fcd6-3a64-410d-a9e7-a92b5196fbbc" />
 <img width="2556" height="1242" alt="Copilot_Excel 3" src="https://github.com/user-attachments/assets/e52b115a-cbcd-4b33-95ba-69f3f2a37479" />
 <img width="1327" height="674" alt="Extract state" src="https://github.com/user-attachments/assets/2a9e3339-51dd-4235-b3d8-bbf485fadf3f" />
+<img width="1137" height="292" alt="06-usecase-pivot-reference" src="https://github.com/user-attachments/assets/e7070614-809a-4500-8bfe-071e549e3cad" />
+<img width="1224" height="998" alt="07-usecase-cleaning-reference" src="https://github.com/user-attachments/assets/b7dcacbc-2870-4334-bfb9-e6d4d564c8a7" />
+<img width="1779" height="623" alt="08-usecase-reconciliation-reference" src="https://github.com/user-attachments/assets/08496e71-d1c2-412a-9e2c-a47a49373da9" />
+<img width="2079" height="793" alt="05-usecase-chart-reference" src="https://github.com/user-attachments/assets/8e853617-3698-4830-8a34-63690d95bdc2" />
